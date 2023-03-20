@@ -25,4 +25,4 @@ This project was developed using the following technologies:
 
 ---
 
-[My profile in Linkedln:](https://www.linkedin.com/in/felipenobrg)
+[My profile in Linkedln](https://www.linkedin.com/in/felipenobrg)
