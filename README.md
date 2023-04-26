@@ -9,7 +9,7 @@
 ## 🔖 Layout
 
 <p align="center">
-(<img width="910" alt="2023-03-17" src="https://user-images.githubusercontent.com/122055576/226391721-e1ab0ceb-33e7-4c5b-be42-e9608e5721f4.png">
+<img width="910" alt="2023-03-17" src="https://user-images.githubusercontent.com/122055576/226391721-e1ab0ceb-33e7-4c5b-be42-e9608e5721f4.png">
 </p>
 
 
